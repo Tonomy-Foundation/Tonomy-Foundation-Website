@@ -3,7 +3,6 @@ The React website of the Tonomy Foundation in wich you will find information abo
 
 if your packages are not installed, please enter the commands in order.
 
-
 firstly;
 
 `npm install`
@@ -12,3 +11,8 @@ firstly;
 and second one
 
 `npm run dev`
+
+
+website deploy link;
+
+https://tonomy-foundation-github-io.vercel.app/
