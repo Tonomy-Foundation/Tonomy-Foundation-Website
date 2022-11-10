@@ -23,8 +23,8 @@ const Bussiness = () => {
   return (
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>You do the business, <br className="sm:block hidden"/> we’ll handle the money.</h2>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>With the right credit card, you can improve your financial life by building credit, earning rewards and saving money. But with hundreds of credit cards on the market.</p>
+        <h2 className={styles.heading2}> Help create a better world by restructuring  <br className="sm:block hidden"/> wealth and value creation.</h2>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Create impact with the help of honest accounting systems through blockchain technology.</p>
 
         <Button styles="mt-10" />
       </div>
