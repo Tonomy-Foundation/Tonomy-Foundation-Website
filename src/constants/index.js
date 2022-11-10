@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: "https://res.cloudinary.com/droaf0tqk/image/upload/v1667828722/Star_ryqkxx.svg",
-    title: "Rewards",
+    title: "Governance - Process management",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Self-governing ecosystems with software and policy management and the ability to flexibly change governance as you go.",
   },
   {
     id: "feature-2",
     icon: "https://res.cloudinary.com/droaf0tqk/image/upload/v1667828722/Shield_gsvdq5.svg",
-    title: "100% Secured",
+    title: "SSI - Self Sovereign Identity",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Leverages new technologies in order to make sure your data never leaves your device,  built-in consent and privacy compliance.",
   },
   {
     id: "feature-3",
     icon: "https://res.cloudinary.com/droaf0tqk/image/upload/v1667828722/Send_t6pr6t.svg",
-    title: "Balance Transfer",
+    title: "Peer-To-Peer Economy On Web 3.0",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Creating new economies that run by themselves with less middlemen and more trust. Build on blockchain and web 3.0 technologies.",
   },
 ];
 

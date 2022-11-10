@@ -12,9 +12,11 @@ const Billing = () => (
         </div>
 
         <div className={layout.sectionInfo}>
-          <h2 className={styles.heading2}>Easily control your <br className="sm:block hidden" /> billing & invoicing.</h2>
+          <h2 className={styles.heading2}>Easily control your <br className="sm:block hidden" /> idenity services & digital authorization.</h2>
           <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
+          SSI technology allows making this happen - your data stays private with you, 
+          <br/>but you are recognized as a human being by singing your transaction using SSI
+          
           </p>
 
           <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

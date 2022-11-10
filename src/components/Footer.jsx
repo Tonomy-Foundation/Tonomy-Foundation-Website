@@ -11,7 +11,7 @@ const Footer = () => (
         alt="hoobank"
         className="w-[266px] h-[72px] object-contain"
         />
-        <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>A new way to make the payments easy, reliable and secure.</p>
+        <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>Tonomy Foundation, based in the Netherlands non-profit organization, was established to make transparent and better society based on self-sovereign identity and blockchain</p>
       </div>
 
       <div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10">
